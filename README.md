@@ -1,5 +1,7 @@
 # 📊 Sales Performance Dashboard
 
+🚀 Interactive Power BI dashboard + Excel VBA automation to analyze and streamline retail sales reporting.
+
 ## 🧰 Tools & Technologies
 
 * Power BI
@@ -40,6 +42,14 @@ Additionally, an **Excel VBA automation tool** was developed to streamline month
 
 ---
 
+---
+
+## 💼 Business Value
+
+* Reduced manual reporting effort using automation
+* Enabled faster decision-making with interactive dashboards
+* Improved visibility into sales performance across regions and categories
+---
 ---
 
 ## 💡 Key Insights
